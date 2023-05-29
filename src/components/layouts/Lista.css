@@ -1,0 +1,16 @@
+.lista{
+    text-decoration: none;
+    color: #0000;
+    list-style: none;
+
+}
+
+.lista :hover{
+    text-decoration: none;
+    list-style: none;
+    color: var(--hoverLink);
+}
+
+.item-lista{
+    color: var(--primary);
+}

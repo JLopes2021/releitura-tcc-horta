@@ -10,7 +10,9 @@ import './App.css'
 
 
 function App() {
-    return ( <
+    return ( 
+        <div>
+                <
         BrowserRouter className = "conteudoGeral" >
         <div>
 
@@ -25,9 +27,13 @@ function App() {
         <Route path = "/Contact" element = { < Contact / > }/>
         <Route path = "/NewProject" element = {<NewProject/>}/>     
         </Routes >
-        <Footer / >
 
         </BrowserRouter>
+        
+        <Footer/>
+
+        </div>
+        
     );
 }
 

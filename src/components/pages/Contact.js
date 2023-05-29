@@ -4,9 +4,7 @@ function Contact() {
     return ( <
         div >
 
-        <
-        /
-        div >
+        </div >
     )
 }
 
