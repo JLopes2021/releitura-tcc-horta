@@ -14,15 +14,15 @@ function Navbar() {
             </li >
 
             <li className={styles.item} >
-                <Link to="/projects" > Faixas de CEP </Link> 
+                <Link to="/projects" > Começar Horta </Link> 
             </li>
 
             <li className={styles.item} >
-                <Link to="/contact" > Em construção </Link> 
+                <Link to="/contact" > Dicas Úteis </Link> 
             </li>
 
             <li className={styles.item} >
-                <Link to="/company" > Em construção </Link> 
+                <Link to="/company" > Sobre </Link> 
             </li> 
         </ul>
 </nav>

@@ -17,19 +17,40 @@
     justify-self: center;
     align-self: center;
     grid-area: logo-horta;
+    height: 400px;
+    width: 220px;
+    perspective: 1000px;
+    position: relative;
+  }
+  .front, .back{
+    margin-top: 1.25em;
+    position: absolute;
+    backface-visibility: hidden;
+    transform-style: preserve-3d;
+    transition: all 1s ease;
+  }
+  .front{
+    transform: rotateY(0deg);
+  }
+  .back{
+    transform: rotateY(180deg);
   }
   
+  .logo-horta:hover .front {
+    transform: rotateY(-180deg);
+  }
+  
+  .logo-horta:hover .back {
+    transform: rotateY(0deg);
+  }
+
+
   .cabecalho-home-tela {
     justify-self: center;
     align-self: center;
     grid-area: cabecalho-home-tela;
   }
   
-  .rodape-home-tela {
-    justify-self: center;
-    align-self: center;
-    grid-area: rodape-home-tela;
-  }
   
   .descricao-site {
     justify-self: center;

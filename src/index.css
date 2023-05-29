@@ -9,11 +9,15 @@ html,
 body,
 #root {
     height: 100%;
+    background-color: #bec8ab;
+    background-image: linear-gradient(1deg, #bec8ab 0%, #f5deb3 100%);
+    
+
 }
 :root{
     --primary: #1C6758;
     --primaryV2: #3D8361;
-    --bcgsite: #EEF2E6;
+    --bcgsite: #bec8ab;
     --itens: #D6CDA4;
     --title: #472D2D;
     --titleMain: #098433;
@@ -22,3 +26,4 @@ body,
     --hoverLink: #A77979;
     --shadow: #212121;
 }
+
