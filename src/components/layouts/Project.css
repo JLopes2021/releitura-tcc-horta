@@ -1,0 +1,45 @@
+.cardsGerais {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+.cardsGerais1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+.textCard {
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: oblique;
+    font-variant: normal;
+}
+
+.titleCard {
+    color: #ae3f25;
+    font-style: oblique;
+    font-variant: normal;
+}
+
+.containerGeral {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 5vh;
+}
+
+.title {
+    font-size: 50px;
+    margin-right: 60px;
+    color: #ae3f25;
+    font-style: bold;
+    font-variant: normal;
+}
+
+.cardsInfo h1 {
+    text-align: center;
+}

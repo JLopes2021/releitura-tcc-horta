@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans, sans-serif';
+}
+
+html,
+body,
+#root {
+    height: 100%;
+}
+:root{
+    --primary: #1C6758;
+    --primaryV2: #3D8361;
+    --bcgsite: #EEF2E6;
+    --itens: #D6CDA4;
+    --title: #472D2D;
+    --titleMain: #098433;
+    --titleSec: #609966;
+    --marromN: #85603F;
+    --hoverLink: #A77979;
+    --shadow: #212121;
+}
