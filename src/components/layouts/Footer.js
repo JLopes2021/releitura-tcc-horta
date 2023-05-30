@@ -22,7 +22,7 @@ const Footer = () => (
         </a> 
         </ul>
 
-        <p className="conteudo"> <span className="span"> Buscador de CEP </span> &copy; 2023 </p >
+        <p className="conteudo"> <span className="span"> MHMV </span> &copy; 2023 </p >
 
   
   </footer>

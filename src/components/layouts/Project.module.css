@@ -1,0 +1,17 @@
+.cabecalho{
+    position: relative;
+    align-items: center;
+    display: grid;
+    place-items: center; 
+}
+.cabecalho title {
+    color: var(--shadow);
+    text-shadow: -10px 3px 8px var(--primaryV2);
+    text-align: center;
+    mix-blend-mode: overlay;
+}
+
+.logoImg{
+   width: 80%;
+   height: 25em;
+}

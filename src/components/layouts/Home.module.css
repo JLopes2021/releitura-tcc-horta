@@ -7,3 +7,9 @@
     height: 100%;
     margin-top: 10vh;
 }
+
+.span{
+    text-transform: uppercase;
+    font-family: 'Satisfy', cursive;
+
+}

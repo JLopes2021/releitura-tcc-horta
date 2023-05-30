@@ -5,7 +5,8 @@
     width: 100%;
     bottom: 0;
     color: white;
-    font-size: 25px;
+    font-size: 15px;
+    display: table-column;
 }
 .conteudo{
     text-align: center;
@@ -26,5 +27,5 @@
 
 
 .span{
-    color: var(--titleMain)
+  font-weight: bold;
 }
