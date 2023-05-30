@@ -15,22 +15,22 @@ import {
 const Services = () => {
   return (
     <ServicesContainer id='services'>
-        <ServicesH1> Our Services </ServicesH1>
+        <ServicesH1> O que temos aqui </ServicesH1>
         <ServicesWrapper>
             <ServicesCard>
               <ServicesIcon src={Icon1}/>
               <ServicesH2> Começar Horta </ServicesH2>
-              <ServicesP> We guide users to achieve expertise in Guga training. </ServicesP>
+              <ServicesP> Aqui ensinamos como você pode começar. </ServicesP>
             </ServicesCard>
             <ServicesCard>
               <ServicesIcon src={Icon2}/>
               <ServicesH2> Dicas Horta </ServicesH2>
-              <ServicesP> You can access our platform online anywhere in the world. </ServicesP>
+              <ServicesP> Temos dicas para você manter a sua horta </ServicesP>
             </ServicesCard>
             <ServicesCard>
               <ServicesIcon src={Icon3}/>
-              <ServicesH2> Premium Benefits </ServicesH2>
-              <ServicesP> Unlock our special membership card that grant access to additional content. </ServicesP>
+              <ServicesH2> Mini Guia </ServicesH2>
+              <ServicesP> Temos um mini guia do que se pode plantar. </ServicesP>
             </ServicesCard>
         </ServicesWrapper>
     </ServicesContainer>
