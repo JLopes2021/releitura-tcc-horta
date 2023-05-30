@@ -4,6 +4,9 @@
     box-sizing: border-box;
     font-family: 'Open Sans, sans-serif';
 }
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ranga&family=Satisfy&display=swap');
 
 html,
 body,
@@ -14,30 +17,11 @@ body,
 
 }
 :root{
-    --primary: #1C6758;
-    --primaryV2: #3D8361;
-    --bcgsite: #bec8ab;
-    --itens: #D6CDA4;
-    --title: #472D2D;
-    --titleMain: #098433;
-    --titleSec: #609966;
-    --marromN: #85603F;
-    --hoverLink: #A77979;
-    --shadow: #212121;
+    
+    --bcgsite: #E5D9B6;
+    --hovers: #A4BE7B;
+    --titles: #285430;
+    --subtitles: #5F8D4E;
+    --hover: #A9907E;
+    --linksNavFot: #E8C07D;
 }
-
-::-webkit-scrollbar {
-    width: 1em;
-}
-::-webkit-scrollbar-track {
-   background-color: #bec8ab;
-}
-::-webkit-scrollbar-thumb {
-    background-color: var(--titleSec);
- }
-
- ::selection {
-    background-color: var(--titleSec);
-    color: white;
- }
- 
