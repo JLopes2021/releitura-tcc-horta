@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 // pexels.com for free stock videos
-import Video from '../../videos/video.mp4'
+import Video from '../../videos/girassol.mp4'
 import {
     HeroContainer,
     HeroBg,
@@ -32,7 +32,7 @@ const HeroSection = () => {
                 <HeroH1> Começando a sua Horta </HeroH1>
                 <HeroP> 
                    Aqui você encontrará algumas dicas úteis para iniciar a sua horta onde você mora.
-                   Se você <span>já quiser</span> saber como criar sua horta, basta apertar no botão <span>Começar Horta</span> lá no menu de navegação.
+                   Se você <span>já quiser</span> saber como criar sua horta, basta apertar no botão <span>Começar Horta</span> lá no menu de
                 </HeroP>
                 <HeroBtnWrapper>
                     <Button 

@@ -1,0 +1,8 @@
+.title{
+    color: wheat;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    margin-left: 50vh;
+}

@@ -67,7 +67,7 @@ const Navbar = ({ toggle }) => {
                         <NavMenu>
                             <NavItem>
                                 <NavLinks
-                                    to="about"
+                                    to="sobre"
                                     smooth={true}
                                     duration={300}
                                     spy={true}
@@ -77,7 +77,7 @@ const Navbar = ({ toggle }) => {
                             </NavItem>
                             <NavItem>
                                 <NavLinks
-                                    to="discover"
+                                    to="hortas"
                                     smooth={true}
                                     duration={300}
                                     spy={true}
@@ -86,7 +86,7 @@ const Navbar = ({ toggle }) => {
                             </NavItem>
                             <NavItem>
                                 <NavLinks
-                                    to="services"
+                                    to="servicos"
                                     smooth={true}
                                     duration={300}
                                     spy={true}
