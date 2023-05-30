@@ -6,7 +6,10 @@ As linguagens usadas serão <img src="https://cdn.jsdelivr.net/gh/devicons/devic
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
 
 # Local de Deploy :ghost: 
-Estou utilizando a VERCEL, em breve, o link estará disponível aqui :running:	
+Estou utilizando a VERCEL: https://releitura-tcc-horta-caseira.vercel.app/ :running:
+
+# Como estão as obras?
+Já temos duas páginas em funcionamento, agora estamos tratando o layout da página inicial e alinhando os conteúdos de começar uma horta
 
 # Quer ajudar? Dá o fork aí e bora pra cima! <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 https://github.com/JLopes2021/horta_caseira_react
